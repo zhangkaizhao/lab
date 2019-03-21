@@ -1,3 +1,6 @@
 [submodule "ruby/rails/blog"]
 	path = ruby/rails/blog
 	url = https://github.com/zhangkaizhao/rails-blog-demo.git
+[submodule "go/using-go-modules"]
+	path = go/using-go-modules
+	url = https://github.com/zhangkaizhao/using-go-modules.git

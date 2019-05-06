@@ -4,3 +4,6 @@
 [submodule "go/using-go-modules"]
 	path = go/using-go-modules
 	url = https://github.com/zhangkaizhao/using-go-modules.git
+[submodule "rust/wasm/hello-wasm"]
+	path = rust/wasm/hello-wasm
+	url = https://github.com/zhangkaizhao/hello-wasm.git
